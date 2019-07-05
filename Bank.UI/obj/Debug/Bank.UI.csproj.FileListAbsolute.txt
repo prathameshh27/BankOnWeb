@@ -1,0 +1,12 @@
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.UI.dll.config
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.UI.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.UI.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.Entities.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.Entities.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\obj\Debug\Bank.UI.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\obj\Debug\Bank.UI.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\obj\Debug\Bank.UI.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.BAL.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.DAL.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.BAL.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.UI\bin\Bank.DAL.pdb

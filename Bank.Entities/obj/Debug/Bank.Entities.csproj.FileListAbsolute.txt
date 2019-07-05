@@ -1,0 +1,4 @@
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.Entities\bin\Debug\Bank.Entities.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.Entities\bin\Debug\Bank.Entities.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.Entities\obj\Debug\Bank.Entities.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.Entities\obj\Debug\Bank.Entities.pdb

@@ -1,0 +1,7 @@
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\bin\Debug\Bank.DAL.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\bin\Debug\Bank.DAL.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\bin\Debug\Bank.Entities.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\bin\Debug\Bank.Entities.pdb
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\obj\Debug\Bank.DAL.csprojResolveAssemblyReference.cache
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\obj\Debug\Bank.DAL.dll
+D:\WarMachine\Coding\visual studio projects\Bank3tier\Bank.DAL\obj\Debug\Bank.DAL.pdb
