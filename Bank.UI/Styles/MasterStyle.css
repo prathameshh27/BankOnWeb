@@ -1,0 +1,23 @@
+﻿.head-menu
+    {
+        padding: 10px; 
+        background-color: #0066FF;  
+        height: 25px;
+    }
+
+.master-body
+    {
+        padding: 10px; 
+        height: 500px;
+        background-color: #fffda5; 
+    }
+
+.head-menu-item 
+    {
+        background-color: #0066FF;
+        border:hidden;
+        color: #FFFFFF; 
+        font-size: medium;
+        margin-left:10px;
+        margin-right:10px;
+    }
